@@ -1,0 +1,15 @@
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\bin\Debug\net7.0\termPaper.exe
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\bin\Debug\net7.0\termPaper.deps.json
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\bin\Debug\net7.0\termPaper.runtimeconfig.json
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\bin\Debug\net7.0\termPaper.dll
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\bin\Debug\net7.0\termPaper.pdb
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\termPaper.csproj.AssemblyReference.cache
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\termPaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\termPaper.AssemblyInfoInputs.cache
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\termPaper.AssemblyInfo.cs
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\termPaper.csproj.CoreCompileInputs.cache
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\termPaper.dll
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\refint\termPaper.dll
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\termPaper.pdb
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\termPaper.genruntimeconfig.cache
+D:\projects\c#\oaip\termPaper\termPaper\termPaper\obj\Debug\net7.0\ref\termPaper.dll
